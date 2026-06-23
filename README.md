@@ -1,83 +1,57 @@
 <div align="center">
 
-# Hi, I'm Lokumi 👋
+# Lokumi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Cyber+Security+Student;Web+Security;AI+Agent+Security;Future+Security+Engineer"/>
+> 我们凝望最初的凝望，感到另一颗心跨越时空。
+>
+> *We gaze upon the first gaze, feeling another heart transcend time and space.*
 
 </div>
 
+<img align="right" width="260" src="./assets/witch.jpg">
+
+## 关于我
+
+🎓 网络安全专业学生
+
+🔐 主攻 Web Security
+
+🤖 学习 Agent Security
+
+☁️ 对云安全与自动化安全感兴趣
+
+🐍 Golang,Python 开发者
+
 ---
 
-## About Me
-
-- 🎓 Cyber Security Student
-- 🔐 Learning Web Security
-- 🤖 Exploring AI Agent Security
-- 🐍 Python Developer
-- ☁️ Interested in Cloud Security
-
----
-
-## Current Focus
+### 当前关注
 
 ```text
 Web Security
 Agent Security
+MCP Security
 Security Automation
 Open Source
-```
+## 项目展示
 
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-
----
-
-## Featured Projects
-
-### 🔥 Main Project
-
-这里放当前最重要项目
-
----
-
-### 🛠 Experimental
-
-这里放正在测试项目
-
----
-
-### 📚 Learning
-
-这里放学习项目
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Bronsan&show_icons=true"
-  />
-</p>
+| 项目 | 简介 | 状态 |
+|------|------|------|
+| AI Pentest Agent | 基于 Agent 的自动化渗透测试工具 | 🚧 |
+| Web Security Lab | Web漏洞复现与研究 | 🚧 |
+| CTF Writeups | 比赛题解与学习记录 | 📝 |
+| Awesome Agent Security | Agent Security资料整理 | 📚 |
 
 ---
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bronsan&layout=compact"
-  />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Bronsan&show_icons=true&theme=tokyonight"
+/>
 
 
 ---
 
 
-
-
-## Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/Bronsan/Lokumi/output/github-contribution-grid-snake.svg)
-
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bronsan&layout=compact&theme=tokyonight"
+/>
