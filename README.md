@@ -18,7 +18,7 @@
       <img src="metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
       <br><br>
       <a href="https://space.bilibili.com/696043659" target="_blank">
-  <img src="https://img.shields.io/badge/Lokumi-点击关注我-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" width="100%">
+  <img src="https://img.shields.io/badge/点击关注我-Lokumi-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" width="100%">
 </a>
     </td>
   </tr>
