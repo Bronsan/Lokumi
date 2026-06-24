@@ -52,3 +52,14 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 4
           plugin_anilist_user: 你的Anilist用户名 # 需要你在 anilist.co 有账号
+
+          name: Profile and detailed game history
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.steam.full.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_steam_token: ${{ bc1q9cx4mgnyrtadmkysnpp77z3525n5avjxpxsw7c }}
+  plugin_steam: yes
+  plugin_steam_user: "76561199125471550"
+
