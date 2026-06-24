@@ -35,22 +35,6 @@
 ---
 
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bronsan&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bronsan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Contribution Snake
 
 ![Snake](https://raw.githubusercontent.com/Bronsan/Lokumi/output/github-contribution-grid-snake.svg)
