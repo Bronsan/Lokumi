@@ -14,36 +14,32 @@ protecting freedom through security.*
 
 ## 关于我
 
-🎓 网络安全专业学生
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
+    </td>
+  </tr>
+</table>
 
-🔐 主攻 Web Security
-
-🤖 学习 Agent Security
-
-☁️ 对云安全与自动化安全感兴趣
+![](https://komarev.com/ghpvc/?username=Radiant303&color=FF69B4&style=flat-square)
 
 🐍 Golang / Python 开发者
 
 ---
 
-## 当前关注
-
-```text
-Web Security
-Agent Security
-MCP Security
-Security Automation
-Open Source
-```
 
 ## 项目展示
 
 | 项目 | 简介 | 状态 |
 |------|------|------|
-| AI Pentest Agent | 基于 Agent 的自动化渗透测试工具 | 🚧 |
-| Web Security Lab | Web漏洞复现与研究 | 🚧 |
-| CTF Writeups | 比赛题解与学习记录 | 📝 |
-| Awesome Agent Security | Agent Security资料整理 | 📚 |
+| |    | 🚧 |
+|  | | 🚧 |
+|  | | 📝 |
+|  |  | 📚 |
 
 ---
 
@@ -69,15 +65,3 @@ Open Source
 
 
 ---
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Radiant303/Radiant303/main/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Radiant303/Radiant303/main/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
-    </td>
-  </tr>
-</table>
-
-![](https://komarev.com/ghpvc/?username=Radiant303&color=FF69B4&style=flat-square)
