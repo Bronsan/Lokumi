@@ -12,21 +12,28 @@
     <td align="center" width="50%" valign="top">
       <img src="metrics.left.svg" alt="GitHub Metrics" width="100%">
     </td>
+    
     <td align="center" width="50%" valign="top">
       <img src="metrics.right.svg" alt="Apple Music" width="100%">
+      
       <br><br>
+
       <img src="metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
+
       <br><br>
+
       <a href="https://space.bilibili.com/696043659" target="_blank">
-  <img src="https://img.shields.io/badge/点击关注我-Lokumi-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" width="100%">
-</a>
+        <img src="https://img.shields.io/badge/Bilibili-点击关注我--Lokumi-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" width="100%">
+      </a>
+
+      <br><br>
+
+      <p align="right" style="margin: 0; padding: 0;">
+        <img width="260" src="./assets/witch.jpg" alt="Witch">
+      </p>
     </td>
   </tr>
 </table>
-</div>
-
-<img align="right" width="260" src="./assets/witch.jpg">
-
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lokumi&color=FF69B4&style=flat-square)
