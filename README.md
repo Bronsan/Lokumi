@@ -10,20 +10,20 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="[https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg?v=5](https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg?v=5)" alt="GitHub Metrics" width="100%">
+      <img src="metrics.left.svg" alt="GitHub Metrics" width="100%">
     </td>
     
     <td align="center" width="50%" valign="top">
-      <img src="[https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg?v=5](https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg?v=5)" alt="Apple Music" width="100%">
+      <img src="metrics.right.svg" alt="Apple Music" width="100%">
       
       <br><br>
 
-      <img src="[https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.plugin.steam.full.svg?v=5](https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.plugin.steam.full.svg?v=5)" alt="Steam Stats" width="100%">
+      <img src="metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
 
       <br><br>
 
-      <a href="[https://space.bilibili.com/696043659](https://space.bilibili.com/696043659)">
-        <img src="[https://github-readme-bilibili-card.vercel.app/api/card?vmid=696043659&theme=default](https://github-readme-bilibili-card.vercel.app/api/card?vmid=696043659&theme=default)" alt="Bilibili Card" width="100%">
+      <a href="https://space.bilibili.com/696043659" target="_blank">
+        <img src="https://img.shields.io/badge/Bilibili-关注我的B站空间-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" width="100%">
       </a>
     </td>
   </tr>
