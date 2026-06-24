@@ -41,9 +41,9 @@ jobs:
           base: "" 
           plugin_music: yes
           plugin_music_provider: apple
-          plugin_music_mode: album
+          plugin_music_mode: playlist
           plugin_music_playlist: https://music.apple.com/cn/playlist/%E5%8A%A8%E6%BC%AB%E9%9F%B3%E4%B9%90%E5%89%8D%E7%BA%BF/pl.89d598cd24cb4cf89895085a0fa278ec
-          plugin_music_limit: 5
+          plugin_music_limit: 1
 
       # 3. 生成 Steam 游戏数据卡片
       - name: Steam Metrics
