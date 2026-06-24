@@ -43,7 +43,7 @@ jobs:
           plugin_music: yes
           plugin_music_provider: apple # 或者是 spotify, youtube 等
           plugin_music_mode: playlist
-          plugin_music_playlist: https://embed.music.apple.com/cn/playlist/... # 填入你的歌单链接
+          plugin_music_playlist: https://music.apple.com/cn/station/utada%E4%B8%8E%E7%B1%BB%E4%BC%BC%E8%89%BA%E4%BA%BA/ra.18756224 # 填入你的歌单链接
           plugin_music_limit: 5
           # Anilist 动漫/漫画插件
           plugin_anilist: yes
